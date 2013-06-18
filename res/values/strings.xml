@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PileCalc</string>
+    <string name="action_settings">Settings</string>
+    <string name="calc">Calculate</string>
+    <string name="design">Design Method:</string>
+    <string name="type">Pile Type:</string>
+    <string name="npbr">Nominal Pile Bearing Resistance:</string>
+    <string name="choose_dm">Choose a design method:</string>
+
+    <string-array name="design_methods">
+        <item>MPF12</item>
+        <item>LRFD</item>
+        <item>ASD</item>
+    </string-array>
+
+    <string name="choose_type">Choose a pile Type:</string>
+    <string name="weight">Weight of Ram:</string>
+
+    
+
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_third">ThirdActivity</string><string-array name="fourth_spinner">
+        <item>Blows per Foot</item>
+        <item>Penetration</item>
+        <item>Inches per 10 Blows</item>
+    </string-array>
+    <string-array name="pile_types">
+        <item >C I P</item>
+        <item >H-PILING</item>
+        <item >TIMBER</item>
+    </string-array>
+    <string-array name="pile_types2">
+        <item >C I P</item>
+        <item >H-PILING</item>
+    </string-array>
+    <string-array name="third_spinner">
+        <item >Energy Per Blow</item>
+        <item >Height of Fall</item>
+        <item >Time (11 Blows)</item>
+    </string-array>
+    <string-array name="third_spinner2">
+        <item >Height of Fall</item>
+        <item >Time(11 Blows)</item>
+    </string-array>
+
+</resources>
